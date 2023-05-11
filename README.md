@@ -2,6 +2,8 @@
 
 My name is Daniel Velasco and I'm on my way to becoming a senior-level software developer.
 
+I am editing this file from GitKraken!
+
 <!--
 **minatouchiha4711/minatouchiha4711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
